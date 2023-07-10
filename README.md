@@ -1,2 +1,2 @@
 # django_lec
-Django project
+django project
